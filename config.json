@@ -1,0 +1,13 @@
+{
+  "project_title": "Incident Postmortem Tracker",
+  "goal": "Summarize incident severity and follow-up readiness.",
+  "entity_name": "incident",
+  "amount_label": "downtime_minutes",
+  "score_label": "severity_score",
+  "categories": [
+    "availability",
+    "latency",
+    "security",
+    "data"
+  ]
+}
